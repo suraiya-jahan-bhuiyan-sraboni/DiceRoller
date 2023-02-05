@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Two Dice Roller</string>
+    <string name="tap">Tap</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="yoo_it_s_match">Yoo! It\'s Match !</string>
+</resources>
